@@ -12,5 +12,5 @@ Please open a pull request with your comment/question/concern or reach me via em
 
 #### Coming Soon: 
 - `Verifcation and Validation`
--`GPU Programming Models`
--`Task Based Parallel Libraries` 
+- `GPU Programming Models`
+- `Task Based Parallel Libraries` 
